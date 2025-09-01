@@ -1,0 +1,7 @@
+Welcome, Alice!
+Alice has logged in.
+Sending notification to Alice.
+
+Welcome, Bob!
+Bob has logged in.
+Sending notification to Bob.
