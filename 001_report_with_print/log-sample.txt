@@ -1,0 +1,5 @@
+[2025-09-01 09:33:54] INFO: System started
+[2025-09-01 09:34:10] WARNING: Low disk space
+[2025-09-01 09:35:02] ERROR: Failed to connect to database
+[2025-09-01 09:36:15] INFO: User 'neil.lin' logged in
+[2025-09-01 09:37:00] INFO: Backup completed successfully
